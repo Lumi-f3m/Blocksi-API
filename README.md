@@ -1,2 +1,1 @@
-# Lattice-Bypass
-This is just a concept tho
+This is nothing more than the sc
